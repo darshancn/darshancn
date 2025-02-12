@@ -1,13 +1,13 @@
-<h1 align="center" style="color:#ff00ff; font-family: 'Poppins', sans-serif; font-size: 48px; font-weight: bold; text-shadow: 2px 2px 8px rgba(255, 0, 255, 0.8);">Hey 👋, I'm Darshan C N</h1>
-<h3 align="center" style="color:#00ffff; font-family: 'Poppins', sans-serif; font-size: 28px; text-shadow: 2px 2px 8px rgba(0, 255, 255, 0.8);">Full Stack Developer | Passionate Coder | Open Source Enthusiast</h3>
+<h1 align="center">Hey 👋, I'm Darshan C N</h1>
+<h3 align="center">Full Stack Developer | Passionate Coder | Open Source Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darshancn&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="darshancn" />
+  <img src="https://komarev.com/ghpvc/?username=darshancn&label=PROFILE+VIEWS&color=brightgreen&style=plastic" alt="darshancn" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=darshancn&theme=onestar&row=2&column=4" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=darshancn&theme=dracula&row=2&column=4" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -17,42 +17,98 @@
 
 ---
 
-<h2 style="color:#ffcc00; text-align:center; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 6px rgba(255, 204, 0, 0.8);">💡 About Me</h2>
-<ul style="color:#ffffff; font-size:18px; font-family:'Poppins', sans-serif; background: rgba(255,255,255,0.1); padding: 15px; border-radius: 10px;">
-  <li>🌱 <b>Currently Learning</b>: AWS, AI/ML, Next.js</li>
-  <li>🤝 <b>Looking for Help With</b>: Open Source Contributions</li>
-  <li>📫 <b>Reach Me At</b>: <a href="mailto:darshancn002@gmail.com" style="color:#ffcc00;">darshancn002@gmail.com</a></li>
-  <li>📄 <b>Resume</b>: <a href="https://drive.google.com/file/d/1-9sTsKctdJakVqLaSynWQT84x0K6sHq6/view?usp=drivesdk" style="color:#ffcc00;">View Resume</a></li>
-</ul>
+- 🧑‍💻 **Coding Profile**: [GeeksforGeeks](https://www.geeksforgeeks.org/user/kevinmitnick002/)
+- 💻 **Look into My Projects**: [Refer My Repositories](https://github.com/darshancn?tab=repositories)
+- 🌱 **Currently Learning**: AWS
+- 🤝 **Looking for Help With**: Open Source Contributions
+- 📫 **Reach Me At**: [darshancn002@gmail.com](mailto:darshancn002@gmail.com)
+- 📄 **Resume**: [View Resume](https://drive.google.com/file/d/1-9sTsKctdJakVqLaSynWQT84x0K6sHq6/view?usp=drivesdk)
 
 ---
 
-<h2 align="center" style="color:#ff00ff; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 6px rgba(255, 0, 255, 0.8);">🚀 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt="node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/AI/ML-ffcc00?style=for-the-badge&logo=tensorflow&logoColor=black" alt="ai/ml" />
-</p>
-
----
-
-<h2 align="center" style="color:#00ffff; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 6px rgba(0, 255, 255, 0.8);">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshancn&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=darshancn&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshancn&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-<h2 align="center" style="color:#ffcc00; font-family: 'Poppins', sans-serif; text-shadow: 1px 1px 6px rgba(255, 204, 0, 0.8);">🔗 Connect With Me</h2>
+<h3 align="center">Let's Connect:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/darshan-c-n-1a1233243" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+</p>
+
+---
+
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> 
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> 
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/> 
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SCSS" width="40" height="40"/> 
+  </a>
+  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/restapi/restapi-icon.svg" alt="APIs" width="40" height="40"/> 
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  </a>
+</p>
+
+---
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshancn&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=darshancn&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshancn&theme=radical" alt="GitHub Streak" />
 </p>
